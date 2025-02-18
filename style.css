@@ -1,4 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Zeyada&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Baloo+Da+2:wght@400..800&display=swap');
 
 
 
@@ -66,7 +67,8 @@ img {
 }
 
 p {
-  font-family: 'Zeyada';
+  /* font-family: 'Zeyada'; */
+  font-family: "Baloo Da 2", serif;
   font-size: 50px;
   color: rgb(36, 36, 44);
   opacity: 0.75;
